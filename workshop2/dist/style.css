@@ -1,0 +1,84 @@
+body {
+	background-color: #499d9e;
+}
+#container {
+	width: 1000px;
+	height: auto;
+	border: 2px solid black;
+	border-radius: 5px;
+	margin: auto;
+	background-color: #1b3a3b;
+}
+h1 {
+	font-family: Marker Felt, fantasy;
+	font-size: 50px;
+	border: 1px solid rgb(17, 36, 102, 0.1);
+	display: inline-block;
+	margin-left: 17%;
+	background-color: rgb(17, 36, 102, 0.1);
+	border-radius: 20px;
+	padding: 5px;
+	margin-bottom: 100px;
+	color:  #E8D8D2;
+	opacity: 0.6
+}
+h2 {
+	Blippo, fantasy;
+}
+#afbeeldingeen {
+	height: 65%;
+	width: 65%;
+	position: relative;
+	float: right;
+}
+#afbeeldingeen img {
+	height: 100%;
+	width: 100%;
+	border: 6px sold #2f3f3f;
+	border-radius: 45px;
+}
+figcaption {
+	text-align: center;
+}
+.description {
+	font-family: American Typewriter, serif;
+	font-style: oblique;
+	font-size: x-large;
+	text-align: center;
+}
+.recipe_details {
+	margin-top: 80px;
+	padding-left: 30px;
+	font-family: Bookman, URW Bookman L, serif;
+	color: #E4CFB7;
+}
+.ingredients {
+	margin-top: 80px;
+	padding-left: 30px;
+	color: #E4CFB7;
+}
+.variation {
+	color: #E49373;
+	opacity: 0.25
+}
+.instructions {
+	margin-top: 100px;
+	padding-left: 30px;
+	margin-bottom: 170px;
+	color:  #E3BCB5;
+	font-family: Chalkduster, fantasy;
+	opacity: 0.8;
+	font-size: large;
+}
+#afbeeldingtwee {
+	height: 50%;
+	width: 50%;
+	position: relative;
+	float: left;
+}
+#afbeeldingtwee img {
+	height: 100%;
+	width: 100%;
+	border: 7px outset #2f3f3f;
+	border-radius: 5px;
+}
